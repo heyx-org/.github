@@ -35,7 +35,7 @@ Our platform is designed for work that cannot be managed well with a generic CRM
 
 | Capability | What it helps with |
 | --- | --- |
-| CRM | Keep track of everything that happened with a customer, from first contact to aftercare. |
+| CRM timeline | Keep track of everything that happened with a customer, from first contact to aftercare. |
 | Quotes | Send simple quote flows for sales advisors or detailed technical quotes for more complex projects. |
 | Lead capture | Bring website leads directly into the system without manual copying or lost context. |
 | Forms | Build opleverformulieren, installatieformulieren, intake forms, and any other operational form. |
