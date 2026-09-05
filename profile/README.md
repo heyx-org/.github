@@ -13,9 +13,7 @@
 
 HeyX connects sales, quotes, planning, field work, and aftercare in one operating layer for sustainable installation companies. Customer data, work orders, routes, forms, photos, and handovers stay part of one visible process.
 
-**One customer journey. From the first conversation to the next service visit.**
-
-## Three products. One connected journey.
+## Our products
 
 ### [HeyWorks](https://heyx.app/heyworks)
 

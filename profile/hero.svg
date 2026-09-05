@@ -12,7 +12,10 @@
     </pattern>
     <mask id="logo-cut">
       <rect width="78" height="42" fill="white"/>
-      <path d="M0 15.25H78M0 18.75H78M0 22.25H78M0 25.75H78" stroke="black" stroke-width="1.5"/>
+      <rect y="14.5" width="78" height="1.5" fill="black"/>
+      <rect y="18" width="78" height="1.5" fill="black"/>
+      <rect y="21.5" width="78" height="1.5" fill="black"/>
+      <rect y="25" width="78" height="1.5" fill="black"/>
     </mask>
   </defs>
   <path fill="url(#background)" d="M0 0H960V280H0z"/>
@@ -29,10 +32,17 @@
     <circle cx="744" cy="174" r="5"/>
     <circle cx="870" cy="228" r="4"/>
   </g>
-  <g transform="translate(48 35)" mask="url(#logo-cut)" fill="#FFFFFF">
-    <path d="M0 1H10V41H0zM0 17H28V25H0zM18 1H28V41H18zM18 1H48V9H18zM18 17H44V25H18zM18 33H48V41H18z"/>
-    <path d="M40 1H54L66 25H56zM78 1H64L44 41H54z"/>
-    <path d="m60.7 33.8 5.9-9.6L78 41H66z" fill="#A8E0DA"/>
+  <rect x="48" y="24" width="102" height="64" fill="#FFFFFF"/>
+  <g transform="translate(60 35)" mask="url(#logo-cut)" fill="#1a1f1e">
+    <rect y="1" width="10" height="40"/>
+    <rect y="17" width="28" height="8"/>
+    <rect x="18" y="1" width="10" height="40"/>
+    <rect x="18" y="1" width="30" height="8"/>
+    <rect x="18" y="17" width="26" height="8"/>
+    <rect x="18" y="33" width="30" height="8"/>
+    <polygon points="40,1 54,1 66,25 56,25"/>
+    <polygon points="78,1 64,1 44,41 54,41"/>
+    <polygon points="60.7,33.8 66.6,24.2 78,41 66,41" fill="#00A195"/>
   </g>
   <g fill="#FFFFFF" font-family="'IBM Plex Sans', Arial, sans-serif">
     <text x="48" y="151" font-size="52" font-weight="600" letter-spacing="-1.5">From first request</text>
