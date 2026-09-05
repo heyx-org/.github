@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">HeyX. From first request to service.</title>
+  <desc id="description">A teal banner with the HeyX logo and connected paths, inspired by heyx.app.</desc>
+  <defs>
+    <linearGradient id="background" x1="180" y1="280" x2="960" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#007F75"/>
+      <stop offset="0.6" stop-color="#00A195"/>
+      <stop offset="1" stop-color="#A8E0DA"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    </pattern>
+    <mask id="logo-cut">
+      <rect width="78" height="42" fill="white"/>
+      <path d="M0 15.25H78M0 18.75H78M0 22.25H78M0 25.75H78" stroke="black" stroke-width="1.5"/>
+    </mask>
+  </defs>
+  <path fill="url(#background)" d="M0 0H960V280H0z"/>
+  <path fill="url(#grid)" d="M0 0H960V280H0z"/>
+  <path d="M520 280 800 0H960L680 280Z" fill="#FFFFFF" fill-opacity="0.05"/>
+  <g stroke="#D7F3EF" stroke-opacity="0.3">
+    <path d="M570 0V46L638 114H756L870 228H960"/>
+    <path d="M610 280V226L700 136H806L912 30V0"/>
+    <path d="M720 0V54L840 174H960"/>
+    <path d="M500 280 552 228H690L744 174"/>
+  </g>
+  <g fill="#D7F3EF">
+    <circle cx="638" cy="114" r="4"/>
+    <circle cx="744" cy="174" r="5"/>
+    <circle cx="870" cy="228" r="4"/>
+  </g>
+  <g transform="translate(48 35)" mask="url(#logo-cut)" fill="#FFFFFF">
+    <path d="M0 1H10V41H0zM0 17H28V25H0zM18 1H28V41H18zM18 1H48V9H18zM18 17H44V25H18zM18 33H48V41H18z"/>
+    <path d="M40 1H54L66 25H56zM78 1H64L44 41H54z"/>
+    <path d="m60.7 33.8 5.9-9.6L78 41H66z" fill="#A8E0DA"/>
+  </g>
+  <g fill="#FFFFFF" font-family="'IBM Plex Sans', Arial, sans-serif">
+    <text x="48" y="151" font-size="52" font-weight="600" letter-spacing="-1.5">From first request</text>
+    <text x="48" y="211" font-size="52" font-weight="600" letter-spacing="-1.5">to service.</text>
+  </g>
+</svg>

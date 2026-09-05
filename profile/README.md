@@ -1,55 +1,50 @@
-<div align="center">
+<a href="https://heyx.app">
+  <img src="./hero.svg" alt="HeyX. From first request to service." width="100%">
+</a>
 
-# HeyX
+<p align="center">
+  <a href="https://heyx.app"><strong>Explore HeyX</strong></a> &nbsp;&middot;&nbsp;
+  <a href="https://docs.heyx.app/api-docs/">API docs</a> &nbsp;&middot;&nbsp;
+  <a href="https://status.heyx.app">System status</a> &nbsp;&middot;&nbsp;
+  <a href="https://heyx.app/contact">Contact us</a>
+</p>
 
-### Operational software for installation and energy teams
+# Software for the residential energy transition
 
-[![Website](https://img.shields.io/badge/website-heyx.nl-00A195?style=for-the-badge)](https://heyx.nl)
-[![Focus](https://img.shields.io/badge/focus-customer%20journeys-ff6b2b?style=for-the-badge)](https://heyx.nl)
-[![Built for](https://img.shields.io/badge/built%20for-installers%20%26%20energy%20operators-2b5953?style=for-the-badge)](https://heyx.nl)
+HeyX connects sales, quotes, planning, field work, and aftercare in one operating layer for sustainable installation companies. Customer data, work orders, routes, forms, photos, and handovers stay part of one visible process.
 
-</div>
+**One customer journey. From the first conversation to the next service visit.**
 
-HeyX builds the operating layer for companies that sell, plan, install, and maintain complex energy and installation projects. We help teams keep every customer journey moving, from first lead to quote, contract, planning, installation, completion, documents, payments, and aftercare.
+## Three products. One connected journey.
 
-Our platform is designed for work that cannot be managed well with a generic CRM: solar, batteries, HVAC, heat pumps, electrical work, telecom, plumbing, roofing, windows and doors, and broader energy services.
+### [HeyWorks](https://heyx.app/heyworks)
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Pipeline Control</h3>
-      <p>Track every order through clear stages, spot blockers early, and keep sales, planning, field teams, and support aligned.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Customer Operations</h3>
-      <p>Manage quotes, forms, assignments, escalations, workflows, documents, and handovers in one operational workspace.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Branded Portals</h3>
-      <p>Give customers a self-service portal for actions, payments, documents, data updates, and real-time project status.</p>
-    </td>
-  </tr>
-</table>
+**Every customer job under control.** The operational CRM for service businesses. Connect planning, routes, work orders, inventory, and completion forms so office and field teams work from the same current customer record.
 
-## What We Build
+### [HeySales](https://heyx.app/heysales)
 
-| Capability | What it helps with |
-| --- | --- |
-| CRM timeline | Keep track of everything that happened with a customer, from first contact to aftercare. |
-| Quotes | Send simple quote flows for sales advisors or detailed technical quotes for more complex projects. |
-| Lead capture | Bring website leads directly into the system without manual copying or lost context. |
-| Forms | Build opleverformulieren, installatieformulieren, intake forms, and any other operational form. |
-| Customer portal | Let customers view project progress, complete actions, update details, and find documents themselves. |
-| Payments | Request payments and support self-service payment flows from the portal. |
-| Bookkeeping integrations | Connect with popular bookkeeping software like Moneybird, Exact Online, Twinfield, and e-Boekhouden.nl. |
-| Planning module | Plan work, coordinate teams, and keep project schedules visible. |
-| Escalations | Track issues, blockers, and follow-up actions before they disappear into inboxes. |
-| Automations | Send reminders, trigger status updates, and automate repeated operational steps. |
+**Complex sales, made straightforward.** A focused CRM and quotation flow for energy sales teams. Keep leads, customer context, calculations, proposals, and approvals together, from first conversation to signed order.
 
-## For Teams Working In
+### [HeyOS](https://heyx.app/heyos)
 
-Solar panels | home batteries | HVAC | heat pumps | electrical | telecom | plumbing | energy | roofing | windows and doors
+Coming soon.
 
-## Work With Us
+## Built for the teams doing the work
 
-Visit [heyx.nl](https://heyx.nl) to learn more about HeyX, our products, and how we help installation and energy companies run cleaner operations.
+From solar panels and heat pumps to home batteries, insulation, and EV chargers, we help installation and field-service teams keep customer data, work agreements, and handovers together as they grow.
+
+Our products also support the wider energy ecosystem: HEMS providers, grid operators, asset owners, energy traders, and OEM manufacturers with complex operational processes.
+
+## Build with HeyX
+
+Connect your tools to authorized HeyX workspaces through our developer interfaces.
+
+- **[Public API](https://docs.heyx.app/api-docs/)**: Explore the API documentation to build integrations.
+- **[Workspace MCP](https://docs.heyx.app/api-docs/mcp/)**: Connect AI tools through the authenticated Workspace MCP server.
+- **[Agent guidance](https://heyx.app/llms.txt)**: Find machine-readable product context and documentation links.
+
+---
+
+**Let's make residential energy work simpler.**
+
+Tell us where your process gets stuck. [Talk to HeyX](https://heyx.app/contact).
